@@ -1,3 +1,3 @@
 # best-repo-ever
 
-This is a sample repo. new branch 1.
+This is a sample repo. new branch 2.
